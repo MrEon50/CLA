@@ -67,4 +67,5 @@ python clatalkie.py
 - [PHILOSOPHY.md](./PHILOSOPHY.md) - Manifest intencji modelu oraz idea uosabiania myśli agentów AI.
 
 **Twórcy**: Endorfinka & Antigravity  
-**Licencja**: MIT
+**Licencja**: MIT 
+PS: Jakkolwiek zostaną nazwane lub ulepszone rozwiązania CLA (tarcie poznawcze, napięcia, skrajności przeciwieństw) są moim zdaniem niezbędne do powstania AGI.
